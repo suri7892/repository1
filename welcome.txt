@@ -11,3 +11,9 @@ juices
 
 apple
 mango
+
+
+chats
+
+panipuri
+sev puri
