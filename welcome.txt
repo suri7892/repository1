@@ -5,3 +5,9 @@ SELECT UR FOOD
 IDLY
 DOSA
 VADA
+
+
+juices
+
+apple
+mango
